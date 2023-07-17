@@ -1,2 +1,6 @@
-public interface IProduct {
+
+public interface IProduct 
+
+public interface IBranch {
+
 }
