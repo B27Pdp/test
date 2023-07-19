@@ -1,5 +1,4 @@
-public interface ITest {
-}
-}}
-}
+public interface IProduct 
+{
+
 }
