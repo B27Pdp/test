@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-
-public interface IProduct 
-
-public interface IBranch {
-
-
-public interface ITest {
+public interface ITest 
+{
 
 }
