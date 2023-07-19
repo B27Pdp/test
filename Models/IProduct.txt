@@ -1,8 +1,8 @@
-public interface ITest 
-{
+public interface IEqaualityProduct {
 
 }
 public interface IProduct 
 {
+
 
 }
